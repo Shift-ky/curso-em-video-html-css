@@ -1,6 +1,8 @@
 
-# Database course repository 
-Repository created for database activities
+# Google Glass
+Site created in class with professor Gustavo Guanabara.
+
+![Imagem Site](https://github.com/Shift-ky/curso-em-video-html-css/blob/main/_imagens/Captura%20de%20tela_20221023_154128.png?raw=true)
 
 ## Technology
 * HTML5
@@ -12,14 +14,15 @@ Repository created for database activities
 
 ## Getting started
 * Clone the repository. <br>
-$ git clone https://github.com/Shift-ky/CURSO-BANCO-DE-DADOS
+$ git clone https://github.com/Shift-ky/curso-em-video-html-css
+
 
 * Running application <br>
 $  Open the file index.html in your browser, Now it's time to test the blog.
 
 ## Links
 
-* Repository: https://github.com/Shift-ky/CURSO-BANCO-DE-DADOS
+* Repository: https://github.com/Shift-ky/curso-em-video-html-css
 
 ## Versioning
 1.0.0.0
